@@ -105,8 +105,4 @@ A relational database project built using **Oracle SQL** to manage a library's b
 - **Database:** Oracle SQL / SQL*Plus
 - **Method:** Interactive substitution variables (`&variable`)
 
----
 
-## 👨‍💻 Author
-
-> *Project in progress — being updated as each SQL topic is completed in class.*
