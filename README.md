@@ -84,7 +84,7 @@ A relational database project built using **Oracle SQL** to manage a library's b
 
 ---
 
-## 🔜 Operations To Be Added 
+## 🔜 Operations Performed
 
 - [ ] 🔧 DDL — `ALTER`, `DROP`, `TRUNCATE`, `RENAME`
 - [ ] ✏️ DML — `UPDATE`, `DELETE`
